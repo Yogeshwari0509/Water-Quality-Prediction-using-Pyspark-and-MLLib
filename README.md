@@ -1,1 +1,3 @@
 # Water-Quality-Prediction-using-Pyspark-and-MLLib
+
+Employing PySpark and MLlib for water quality prediction involves leveraging distributed computing with PySpark and machine learning algorithms from MLlib to analyze large datasets of water quality parameters. This approach enables the creation of predictive models to forecast water quality levels, detect anomalies, and assess factors influencing water purity or contamination. By harnessing the scalability of PySpark and the machine learning capabilities of MLlib, this method facilitates more efficient and accurate predictions for water quality management and environmental monitoring.
